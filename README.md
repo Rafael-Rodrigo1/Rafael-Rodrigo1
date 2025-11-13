@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Estudante<br>- Programador Front-End<br>- Analise e Desenvolvimento de Sistemas</p>
+<p align="left">-Estudante<br>- Programador FULL STACK<br>- Analise e Desenvolvimento de Sistemas</p>
 
 ###
 
