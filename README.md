@@ -1,52 +1,50 @@
-<h2 align="left">Hi, i`m Rafael Rodrigo!</h2>
+# 👋 Olá, eu sou Rafael Rodrigo!
 
-###
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Foco em Backend com Java e Cloud (AWS)  
+🚀 Em busca de estágio em Desenvolvimento de Software  
 
-<p align="left">-Estudante<br>- Programador FULL STACK<br>- Analise e Desenvolvimento de Sistemas</p>
+---
 
-###
+## 🧠 Sobre mim
+Sou estudante de ADS com experiência prática em desenvolvimento backend utilizando **Java**, **APIs REST**, **POO** e **banco de dados**.  
+Tenho projetos próprios publicados no GitHub, aplicando **boas práticas**, **Design Patterns** e **integração com serviços AWS**.
 
-<h2 align="left">Tech</h2>
+---
 
-###
+## 🛠️ Tecnologias
+- **Backend:** Java, Spring Boot, Node.js  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Banco de Dados:** MySQL  
+- **Cloud:** AWS (S3, EC2, Lambda)  
+- **Ferramentas:** Git, GitHub, Gradle 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+## 📂 Projetos em destaque
+🔹 **Board in Java**  
+Sistema de gerenciamento de tarefas em Java aplicando POO.  
+👉 https://github.com/Rafael-Rodrigo1/Board_in_JAVA  
 
-###
+🔹 **Design Patterns em Java**  
+Implementações práticas de padrões de projeto com foco em arquitetura.  
+👉 https://github.com/Rafael-Rodrigo1/Design_Patterns  
 
-<h2 align="left">Stats</h2>
+🔹 **Projeto AWS – Integração em Nuvem**  
+Integração de serviços AWS (S3, EC2 e Lambda) com foco em automação e redução de custos.  
+👉 https://github.com/Rafael-Rodrigo1/AWS-Projeto  
+
+<h2 align="left"> 📊 Stats</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafael-Rodrigo1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Rodrigo1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafael-Rodrigo1&radius=0&title_color=F0F8FF&color=F0F8FF&line=00BFFF&point=00BFFF&theme=elegant&area=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="left">contacts</h2>
+## 📫 Contato
 
 ###
 
