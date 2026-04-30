@@ -1,14 +1,20 @@
 # 👋 Olá, eu sou Rafael Rodrigo!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Foco em Backend com Java e Cloud (AWS)  
-🚀 Em busca de estágio em Desenvolvimento de Software  
+💻 Desenvolvedor Full Stack em formação  
+🎯 Foco em Front-End (React, TypeScript)  
+⚙️ Conhecimentos em Backend (Java, APIs REST, AWS)
 
 ---
 
 ## 🧠 Sobre mim
-Sou estudante de ADS com experiência prática em desenvolvimento backend utilizando **Java**, **APIs REST**, **POO** e **banco de dados**.  
-Tenho projetos próprios publicados no GitHub, aplicando **boas práticas**, **Design Patterns** e **integração com serviços AWS**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end utilizando React, TypeScript e Tailwind.
+
+Tenho experiência na construção de interfaces modernas e responsivas, aplicando boas práticas de organização de código e componentização.
+
+Também possuo conhecimentos em backend com Java, APIs REST e integração com serviços AWS, o que me permite desenvolver soluções mais completas.
+
+Atualmente, estou em busca da minha primeira oportunidade como desenvolvedor, com o objetivo de evoluir rapidamente e contribuir em projetos reais.
 
 ---
 
@@ -20,6 +26,10 @@ Tenho projetos próprios publicados no GitHub, aplicando **boas práticas**, **D
 - **Ferramentas:** Git, GitHub, Gradle 
 
 ## 📂 Projetos em destaque
+🔹 **Sistema de Autenticação de usuários**  
+Sistema de Autenticação de usuários com integração ao banco de dados Mysql.  
+👉 https://github.com/Rafael-Rodrigo1/Sistema_de_Autenticacao
+
 🔹 **Board in Java**  
 Sistema de gerenciamento de tarefas em Java aplicando POO.  
 👉 https://github.com/Rafael-Rodrigo1/Board_in_JAVA  
